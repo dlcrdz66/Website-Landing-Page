@@ -1,0 +1,2 @@
+This was the product of a Website Tutorial I watched from (iCodeThis) Traversy Media.  Thanks to Brad for the 2-hr Walkthrough, I learned a great deal. Had to redo some of the sections/syntax over because I missed a few things that kept throwing errors. I figured out that there were some case-sensitive issues. Misplaced a few <div>'s...haha
+Had fun though!  (https://icodethis.com/?ref=traversy)
